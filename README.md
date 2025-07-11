@@ -56,7 +56,12 @@ Login credentials:
 
 Username: admin
 
-Password: admin
+Password: 123
+
+for the kitchen
+Username: Cozinha
+
+Password: 123
 
 📂 Folder Structure
 /src → All C# code (Forms, logic, etc.)
